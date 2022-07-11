@@ -1,0 +1,10 @@
+You chose [rock], computer chose [paper].....You lose!
+You chose [rock], computer chose [scissors].....You win!
+You chose [rock], computer chose [scissors].....You win!
+You chose [rock], computer chose [rock].....Tie!
+You chose [rock], computer chose [rock].....Tie!
+You chose [rock], computer chose [scissors].....You win!
+You chose [rock], computer chose [scissors].....You win!
+You chose [rock], computer chose [scissors].....You win!
+You chose [paper], computer chose [scissors].....You lose!
+You chose [scissors], computer chose [rock].....You win!
